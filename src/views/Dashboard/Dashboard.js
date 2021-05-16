@@ -81,7 +81,7 @@ export default function Dashboard() {
             <CardFooter stats>
               <div className={classes.stats}>
                 <DateRange />
-                Last 24 Hours
+                Autorizados
               </div>
             </CardFooter>
           </Card>
@@ -98,7 +98,7 @@ export default function Dashboard() {
             <CardFooter stats>
               <div className={classes.stats}>
                 <LocalOffer />
-                Tracked from Github
+                Bloqueados
               </div>
             </CardFooter>
           </Card>
